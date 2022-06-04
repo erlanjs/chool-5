@@ -10,9 +10,9 @@ const Services = () => {
                 <h3>Байланышуу учун</h3>
                 <div className="services__general">
                     <div className="services__general--contact">
-                        <a href="https://kashkasuu@bk.ru"><span style={{fontSize: media(15, 20)}}><i className="fa-solid fa-envelope"/>kashkasuu@bk.ru</span></a>
-                        <a href="https://t.me/996770300022"><span style={{fontSize: media(15, 20)}}><i className="fa-brands fa-telegram"/>0 777 854 375</span></a>
-                        <a href="tel:0770300022"><span style={{fontSize: media(15, 20)}}><i className="fa-solid fa-phone"/>0 777 854 375</span></a>
+                        <a href="https://kulcumektebi@gmail.com"><span style={{fontSize: media(15, 20)}}><i className="fa-solid fa-envelope"/>kulcumektebi@gmail.com</span></a>
+                        <a href="https://t.me/99777854375"><span style={{fontSize: media(15, 20)}}><i className="fa-brands fa-telegram"/>0 777 854 375</span></a>
+                        <a href="tel:996777854375"><span style={{fontSize: media(15, 20)}}><i className="fa-solid fa-phone"/>0 777 854 375</span></a>
                         <a href="#"><span style={{fontSize: media(15, 20)}}><i className="fa-solid fa-location-dot"/>Чоң-Алай району,
                             <br/> Кулчу айылы<br/>Суу-Жылга көчөсү 8</span></a>
                     </div>
