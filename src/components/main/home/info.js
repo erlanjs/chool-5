@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import school from "./../../../images/school.png"
+import school from "./../../../images/school.jpg"
 import child from "./../../../images/students.png"
 import book from "./../../../images/book.png"
 import teach from "./../../../images/teach.png"
